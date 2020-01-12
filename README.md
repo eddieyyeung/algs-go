@@ -75,3 +75,5 @@ Reference: https://www.geeksforgeeks.org/
 - [ ] Fibonacci Heap
 - [ ] Leftist Heap
 - [ ] K-ary Heap
+- [ ] Segment Tree
+  - [x] [Sum of given range](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
