@@ -77,3 +77,5 @@ Reference: https://www.geeksforgeeks.org/
 - [ ] K-ary Heap
 - [ ] Segment Tree
   - [x] [Sum of given range](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
+  - [ ] [Range Minimum Query](https://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query/)
+  - [ ] [XOR of given range](https://www.geeksforgeeks.org/segment-tree-set-3-xor-given-range/)
