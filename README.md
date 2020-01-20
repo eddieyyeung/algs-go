@@ -63,6 +63,12 @@ Reference: https://www.geeksforgeeks.org/
 - [ ] [Bellman–Ford Algorithm](https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/)
 - [ ] [0-1 Knapsack Problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
 
+### Manacher’s Algorithm
+- [ ] [Manacher’s Algorithm – Linear Time Longest Palindromic Substring – Part 1](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/)
+- [ ] [Manacher’s Algorithm – Linear Time Longest Palindromic Substring – Part 2](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-2/)
+- [ ] [Manacher’s Algorithm – Linear Time Longest Palindromic Substring – Part 3](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-3-2/)
+- [ ] [Manacher’s Algorithm – Linear Time Longest Palindromic Substring – Part 4](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-4/)
+
 ### Divide and Conquer
 
 ### Backtracing
