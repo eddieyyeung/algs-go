@@ -94,8 +94,8 @@ Reference: https://www.geeksforgeeks.org/
 ## Graph Data Structure And Algorithms
 https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
 
-- [ ] [Graph and its representations](https://www.geeksforgeeks.org/graph-and-its-representations/)
-- [ ] [Graph implementation using STL for competitive programming | Set 1 (DFS of Unweighted and Undirected)](https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-1-dfs-of-unweighted-and-undirected/)
+- [x] [Graph and its representations](https://www.geeksforgeeks.org/graph-and-its-representations/)
+- [x] [Graph implementation using STL for competitive programming | Set 1 (DFS of Unweighted and Undirected)](https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-1-dfs-of-unweighted-and-undirected/)
 - [ ] [Graph implementation using STL for competitive programming | Set 2 (Weighted graph)](https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-2-weighted-graph/)
 - [ ] [Graph representations using set and hash](https://www.geeksforgeeks.org/graph-representations-using-set-hash/)
 
