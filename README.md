@@ -72,11 +72,12 @@ Reference: https://www.geeksforgeeks.org/
 ### Divide and Conquer
 
 ### Backtracing
+- [x] [Backtracking | Set 1 (The Knight’s tour problem)
+](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/)
 
 ### Branch and Bound
 
 ---
-
 
 ## Data Structures
 ### Heap
@@ -89,3 +90,12 @@ Reference: https://www.geeksforgeeks.org/
   - [x] [Sum of given range](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
   - [ ] [Range Minimum Query](https://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query/)
   - [ ] [XOR of given range](https://www.geeksforgeeks.org/segment-tree-set-3-xor-given-range/)
+
+## Graph Data Structure And Algorithms
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+
+- [ ] [Graph and its representations](https://www.geeksforgeeks.org/graph-and-its-representations/)
+- [ ] [Graph implementation using STL for competitive programming | Set 1 (DFS of Unweighted and Undirected)](https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-1-dfs-of-unweighted-and-undirected/)
+- [ ] [Graph implementation using STL for competitive programming | Set 2 (Weighted graph)](https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-2-weighted-graph/)
+- [ ] [Graph representations using set and hash](https://www.geeksforgeeks.org/graph-representations-using-set-hash/)
+
