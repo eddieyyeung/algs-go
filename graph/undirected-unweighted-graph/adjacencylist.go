@@ -1,19 +1,12 @@
-/*
-Package undirectedweightedgraph 有加权和无向图
-
-https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-2-weighted-graph/
-*/
-package undirectedweightedgraph
+// Package undirected-unweighted-graph 无加权和无向图
+// https://www.geeksforgeeks.org/graph-and-its-representations/
+// https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-1-dfs-of-unweighted-and-undirected/
+package undirected_unweighted_graph
 
 import (
 	"container/list"
 	"fmt"
 )
-
-type Item struct {
-	Value  int
-	Weight int
-}
 
 // Node 邻接列表节点
 type Node struct {
@@ -37,9 +30,9 @@ func New(n int) *AdjacencyList {
 }
 
 // AddEdge 添加边
-func (al *AdjacencyList) AddEdge(u, v, wt int) {
-	al.Nodes[u].List.PushBack(Item{v, wt})
-	al.Nodes[v].List.PushBack(Item{u, wt})
+func (al *AdjacencyList) AddEdge(u, v int) {
+	al.Nodes[u].List.PushBack(v)
+	al.Nodes[v].List.PushBack(u)
 }
 
 // DFS A utility function to do DFS of graph
@@ -59,8 +52,8 @@ func (node *Node) traverse(idx int, al *AdjacencyList, visited *[]bool) {
 	(*visited)[idx] = true
 	fmt.Printf("%v ", idx)
 	for e := node.List.Front(); e != nil; e = e.Next() {
-		item, _ := e.Value.(Item)
-		al.Nodes[item.Value].traverse(item.Value, al, visited)
+		v, _ := e.Value.(int)
+		al.Nodes[v].traverse(v, al, visited)
 	}
 }
 

@@ -1,4 +1,4 @@
-package undirectedunweightedgraph
+package undirected_unweighted_graph
 
 import (
 	"fmt"
