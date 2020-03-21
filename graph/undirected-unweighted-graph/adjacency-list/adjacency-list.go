@@ -1,7 +1,7 @@
 // Package undirected-unweighted-graph 无加权和无向图
 // https://www.geeksforgeeks.org/graph-and-its-representations/
 // https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-1-dfs-of-unweighted-and-undirected/
-package undirected_unweighted_graph
+package adjacency_list
 
 import (
 	"container/list"
