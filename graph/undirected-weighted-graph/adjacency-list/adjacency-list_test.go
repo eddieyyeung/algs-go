@@ -1,4 +1,4 @@
-package undirected_weighted_graph
+package adjacency_list
 
 import (
 	"fmt"

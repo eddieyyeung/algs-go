@@ -3,7 +3,7 @@ Package undirected-weighted-graph 有加权和无向图
 
 https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-2-weighted-graph/
 */
-package undirected_weighted_graph
+package adjacency_list
 
 import (
 	"container/list"
