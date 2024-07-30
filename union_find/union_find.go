@@ -50,3 +50,7 @@ func (uf UnionFind) Union(x, y int) {
 		uf.Rank[y]++
 	}
 }
+
+func (uf UnionFind) IsConnected(x, y int) bool {
+	return uf.Find(x) == uf.Find(y)
+}
