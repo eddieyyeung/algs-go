@@ -15,7 +15,7 @@ type UnionFind struct {
 	Rank   []int
 }
 
-func New(cap int) *UnionFind {
+func NewUnionFind(cap int) *UnionFind {
 	parent := make([]int, cap)
 	rank := make([]int, cap)
 	for i := 0; i < cap; i++ {
